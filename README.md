@@ -17,7 +17,7 @@ The dataset is handled using the **JSON library**, and the goal is to extract me
 
 ##  Technologies Used
 
-* Python 🐍
+* Python 
 * JSON Library
 
 
@@ -32,7 +32,7 @@ The dataset is handled using the **JSON library**, and the goal is to extract me
 
 ---
 
-## 📈 Results
+## Results
 
 * The analysis provides **meaningful insights** from the dataset
 * Achieved **good accuracy** in results
@@ -40,12 +40,8 @@ The dataset is handled using the **JSON library**, and the goal is to extract me
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Navin badode**
 
 ---
-
-## ⭐ Show Your Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
